@@ -28,8 +28,8 @@ What these commands will do is they will update credentials file and write those
 1. Move to the C:\Users\your_user\.aws
 2. Open [credentials] file
 3. Find your access key - there should be tag on top of it called [default]
-4. Change [default] tag to [lifebackup-profile]. Web API will refer to the credentials file using appsettings.json file 
-   to use the proper key to access Amazon S3 instance.
+4. Change [default] tag to [lifebackup-profile]. Web API will refer to the credentials file 
+   using appsettings.json file to use the proper key to access Amazon S3 instance.
 ```
 
 ## Now, you're able to run the app. 🎉
