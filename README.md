@@ -1,4 +1,4 @@
-# Consuming AWS S3 SDK in ASP .NET Core 5.0
+# Consuming AWS S3 SDK in ASP .NET Core 5.0 🧙‍♂️
 
 This is the sample API with Clean Architecture implementation which demonstrates how to use Amazon S3 SDK to interact with Amazon S3 in programmatic way.
 
@@ -13,7 +13,7 @@ This is the sample API with Clean Architecture implementation which demonstrates
 
 > What to do after getting access keys?
 
-````
+```
 1. Open CMD 
 2. Type aws configure
 3. Input AWS Access Key 
@@ -28,8 +28,8 @@ What these commands will do is they will update credentials file and write those
 1. Move to the C:\Users\your_user\.aws
 2. Open [credentials] file
 3. Find your access key - there should be tag on top of it called [default]
-4. Change [default] tag to [lifebackup-profile]. Web API will refer to the credentials file using appsettings.json file to use the proper key to access Amazon S3 instance.
+4. Change [default] tag to [lifebackup-profile]. Web API will refer to the credentials file using appsettings.json file 
+   to use the proper key to access Amazon S3 instance.
 ```
 
-Here's how it should look like 
-![image](https://user-images.githubusercontent.com/45008446/145719822-fa9dcfd8-6134-4b04-9585-23d22087da1d.png)
+## Now, you're able to run the app. 🎉
