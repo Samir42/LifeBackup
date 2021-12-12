@@ -1,6 +1,6 @@
 # Consuming AWS S3 SDK in ASP .NET Core 5.0 🧙‍♂️
 
-This is the sample API with Clean Architecture implementation which demonstrates how to use Amazon S3 SDK to interact with Amazon S3 in programmatic way.
+This is the sample API with Clean Architecture implementation which demonstrates how to use Amazon S3 SDK to interact with Amazon S3 in a programmatic way.
 
 > # Prerequisities
 
